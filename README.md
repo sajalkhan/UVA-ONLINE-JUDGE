@@ -8,4 +8,12 @@ These are usually not the most optimal solutions, but they all are accepted with
 
 My UVA account is sajal_khan (http://uhunt.felix-halim.net/id/574150)
 
-Feel free to look at these solutions for assistance on a problem, but please don't just copy my solutions, because there is no point in doing so.
+
+### General Announcement
+    
+* Please don't copy paste the code for the shake of your own betterment 😊
+* This repository contains practice file of verdict WA,TLE and RTE etc. 😄
+* Solutions are genrally a C,C++ or Java Source file. 💻
+* Create an issue if something went wrong, I'll fix. 🐛
+
+Thank you !
